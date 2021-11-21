@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{425:function(e,n,t){"use strict";t.r(n);var c=t(2),l=Object(c.d)({setup:function(e,n){console.log(n)}}),o=t(98),component=Object(o.a)(l,(function(){var e=this,n=e.$createElement;return(e._self._c||n)("div",[e._v("Index.vue")])}),[],!1,null,null,null);n.default=component.exports}}]);
