@@ -1,5 +1,6 @@
 # first-shot
 
+https://reactgo.com/nuxt-deploy-github-pages/
 ## Notes
 
 **Routing**

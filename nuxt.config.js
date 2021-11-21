@@ -68,6 +68,6 @@ export default {
 
   target: 'static',
   router: {
-    base: '/nuxt-app-1'
+    // base: '/nuxt-app-1'
   }
 }
